@@ -4,5 +4,7 @@ A Collection of Makros which use Text+ to drwa shapes. They all  work in Free an
 The shapes bend and move along the path of a Text+ node. You have many possibilities to change their appeance:
 ![Available Shapes](https://github.com/Tida-Support/Curved-Shapes-for-BMD-Fusion/blob/main/CurvedShapes.png)
 ![Control Surface](https://github.com/Tida-Support/Curved-Shapes-for-BMD-Fusion/blob/main/CurvedShapesControls.png)
+## Video
+https://studio.youtube.com/video/TlIKzzekhDQ/edit
 ## Installation
 Save Files to your assigned Macro Folder
