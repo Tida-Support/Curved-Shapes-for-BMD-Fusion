@@ -12,3 +12,5 @@ The shapes bend and move along the path of a Text+ node. You have many possibili
 https://www.steakunderwater.com/wesuckless/viewtopic.php?t=5499&hilit=shape
 ## Installation
 Save Files to your assigned Macro Folder
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TlIKzzekhDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
