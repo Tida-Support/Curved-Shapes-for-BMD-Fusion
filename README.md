@@ -1,4 +1,4 @@
-# Curved-Shapes-for-BMD-Fusion
+# Curved Shapes for Blackmagic Design Fusion
 A Collection of Makros which use Text+ to draw shapes. They all work in Free and Studio Version of Black Magic Design Fusion
 ## Features
 The shapes bend and move along the path of a Text+ node. You have many possibilities to change their appearance:
