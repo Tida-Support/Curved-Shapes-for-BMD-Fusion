@@ -6,9 +6,9 @@ The shapes bend and move along the path of a Text+ node. You have many possibili
 ![Control Surface](https://github.com/Tida-Support/Curved-Shapes-for-BMD-Fusion/blob/main/CurvedShapesControls.png)
 ## Video
 [![Curved Arrow](https://img.youtube.com/vi/TlIKzzekhDQ/0.jpg)](https://www.youtube.com/watch?v=TlIKzzekhDQ)
-[![Curved Arrow](https://img.youtube.com/vi/77vSJblTWQE/0.jpg)](https://www.youtube.com/watch?v=77vSJblTWQE)
+[![Curved Arrow](https://img.youtube.com/vi/77vSJblTWQE/0.jpg)](https://www.youtube.com/watch?v=77vSJblTWQE 50x40)
 
-<img src="[https://your-image-url.type](https://img.youtube.com/vi/77vSJblTWQE/0.jpg)" width="100" height="100">
+<img src="[https://your-image-url.type](https://img.youtube.com/vi/77vSJblTWQE/0.jpg)" width="50" height="50">
 
 ## Forum Discussion
 https://www.steakunderwater.com/wesuckless/viewtopic.php?t=5499&hilit=shape
