@@ -5,7 +5,7 @@ The shapes bend and move along the path of a Text+ node. You have many possibili
 ![Available Shapes](https://github.com/Tida-Support/Curved-Shapes-for-BMD-Fusion/blob/main/CurvedShapes.png)
 ![Control Surface](https://github.com/Tida-Support/Curved-Shapes-for-BMD-Fusion/blob/main/CurvedShapesControls.png)
 
-
+<img src="https://github.com/Tida-Support/Curved-Shapes-for-BMD-Fusion/blob/main/CurvedShapesControls.png" width="100" height="100">
 
 
 ## Video
